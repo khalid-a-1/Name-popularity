@@ -1,6 +1,6 @@
 # CS 173: Intermediate Computer Science
 
-## Project 1 - Data Analytic Application on Name Popularity**
+## Project 1 - Data Analytic Application on Name Popularity
 
 ### Overview
 
