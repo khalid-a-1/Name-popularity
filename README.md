@@ -17,7 +17,7 @@ This is a group of two students project.
 
 Your program presents to users at least three options.
 
-_In the first option_ , the user can search the rank of a specific name. You will write a program that
+***In the first option***, the user can search the rank of a specific name. You will write a program that
 prompts the user to enter the year, gender, followed by a name, and displays the ranking and
 count of the name for the year. Your program should not be case sensitive while searching the
 name in the file
@@ -33,7 +33,7 @@ Ranking result for Ashley between 2001 and 2003
 2003: #8 14506
 Total : 46,363 people have Ashley name.
 
-_In the second option_ , the user enters a year and program displays and save the names that are
+***In the second option***, the user enters a year and program displays and save the names that are
 used for both genders in that year in commonname#year#.txt with the following format.
 
 
@@ -42,7 +42,7 @@ Enter a year for finding common names: 2001
 69 names are used for both boys and girls:
 *refer to Hw3-NamePopularity.pdf*
 
-_In the third option_ , your program displays the most popular three girl and boy names starting
+***In the third option*** , your program displays the most popular three girl and boy names starting
 with a letter.
 
 Enter a letter to see most popular three names starts with : j
@@ -58,7 +58,7 @@ Boys:
 2 Jayden
 3 Joshua
 
-_(Optional)_ For extra points, you can add the fourth option to your program. You can get
+***(Optional)*** For extra points, you can add the fourth option to your program. You can get
 maximum +25 points based on the level of your option’s complexity.
 
 You will present all these options to users under a menu as below.
